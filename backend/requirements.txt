@@ -1,0 +1,11 @@
+fastapi[all]
+uvicorn
+pandas
+openpyxl
+google-generativeai
+sqlalchemy
+python-docx
+reportlab
+python-multipart
+pydantic
+python-dotenv
