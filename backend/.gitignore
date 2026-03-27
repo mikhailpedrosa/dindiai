@@ -1,0 +1,27 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Sensitive Information
+.env
+
+# Database
+dindiai.db
+
+# User Uploads
+uploads/
+
+# OS Files
+.DS_Store
+Thumbs.db
